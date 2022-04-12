@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate onvflutter project 
-- 📫 How to reach me by gmail : abhayskp7948@gmail.com
+- 📫 How to reach me by : abhayskp7948@gmail.com
 
 <!---
 abhayhub/abhayhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
