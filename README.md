@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhayhub
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate onvflutter project 
+- 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me by : abhayskp7948@gmail.com
 
 <!---
