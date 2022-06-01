@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayhub
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on flutter project 
 - 📫 How to reach me by : abhayskp7948@gmail.com
 
