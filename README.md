@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayhub
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me by : abhayskp7948@gmail.com
 
